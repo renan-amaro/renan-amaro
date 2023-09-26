@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Renan Amaro 😁
+## Bem-vindo(a) ao perfil do Renan Amaro !
 
  <div>
    <a href="https://github.com/renan-amaro">
@@ -14,7 +14,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  
